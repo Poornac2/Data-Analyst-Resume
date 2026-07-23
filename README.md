@@ -2,7 +2,7 @@
 
 Hi, I'm Poorna Chandra.
 
-This repository contains my latest Data Analyst resume.
+This repository contains my latest ATS-friendly Data Analyst resume along with my core skills and portfolio projects.
 
 ## Skills
 - Microsoft Excel
